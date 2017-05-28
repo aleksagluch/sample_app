@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="232046cc-2d83-49f2-b188-f302bcebf43e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20170528114941_add_index_to_users_email.rb" afterPath="$PROJECT_DIR$/db/migrate/20170528114941_add_index_to_users_email.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
-    </list>
+    <list default="true" id="232046cc-2d83-49f2-b188-f302bcebf43e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -587,12 +583,12 @@
       <updated>1495778531139</updated>
       <workItem from="1495778532732" duration="6806000" />
       <workItem from="1495962527352" duration="552000" />
-      <workItem from="1495964123165" duration="6124000" />
+      <workItem from="1495964123165" duration="6317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13482000" />
+    <option name="totallyTimeSpent" value="13675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
